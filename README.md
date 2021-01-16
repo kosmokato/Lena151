@@ -1,4 +1,6 @@
-# Lena151 Reversing (Reverse Engineering with OllyDBG) backup (forked from  [@re4lfl0w's](https://github.com/re4lfl0w/lena_reversing))
+# Lena151 Reversing ([SnD] [lena151] Reversing With Lena (Tutorials))
+Reverse Engineering with OllyDBG
+backup (forked from  [@re4lfl0w's](https://github.com/re4lfl0w/lena_reversing))
 
 ## Original course (dead)
 
